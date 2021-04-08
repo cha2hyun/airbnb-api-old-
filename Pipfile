@@ -9,7 +9,7 @@ black = "*"
 autopep8 = "*"
 
 [packages]
-django = "==2.2.6"
+django = "==2.2.20"
 pillow = "*"
 django-seed = "*"
 djangorestframework = "*"
